@@ -1,0 +1,110 @@
+* {
+    background-color: aliceblue;
+}
+
+.title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+    color: #A60303;
+    background-color: #F2F2F2;
+}
+
+.intro{
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(57, 46, 121);
+}
+
+
+.homepage{
+    font-weight: bold;
+    text-align: left;
+    color: #A60303;
+}
+
+.pasta{
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+    color: #A64F03;
+    background-color: #F2F2F2;
+}
+
+.imgp{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 42%;
+}
+
+.pasta-p, .ingrediants-p, .steps-p{
+    color:#BF7B3F ;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+}
+
+.heading-2p{
+
+    font-weight: bold;
+    text-align: left;
+    color: #730202;
+
+}
+
+.chicken-masala{
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+    color: #F25C05;
+    background-color: #F2F2F2;
+}
+
+.imgcs {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 42%;
+}
+
+.heading-2cs {
+    font-weight: bold;
+    text-align: left;
+    color: #8C2703;
+    
+}
+
+.para-cs, .ingrediants-cs, .steps-cs{
+    color:#A69B03 ;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+}
+
+.chicken-roast{
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+    color: #D96B2B;
+    background-color: #F2F2F2;
+
+}
+
+.imgrc{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 42%;  
+}
+
+.heading-2rc {
+    font-weight: bold;
+    text-align: left;
+    color: #F29441;
+}
+
+.para-rc, .ingredients-rc, .steps-rc {
+    color:#A69B03 ;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+}
